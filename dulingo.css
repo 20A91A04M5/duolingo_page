@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Sankofa+Display&display=swap');
+*{
+    background-image: url("./image-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#sea a{
+    text-decoration: none;
+}
+.star img{
+    display: flex;
+}
+
+.button{
+    padding-left: 30%;
+    
+}
+#img1{
+    float: right;
+    cursor: pointer;
+}
+#para1{
+    font-size: xx-large;
+    font-style: italic;
+}
+#para2{
+    color: white;
+    cursor: pointer;
+}
+.but{
+    border-radius: 30%;    
+}
+#mobile{
+    float: right;
+    cursor: pointer;
+}
+.big p b{
+    font-size: xx-large;
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.big p{
+    font-weight: 700;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#rock pre span{
+    font-weight:bolder;
+    font-size: xx-large;
+    color: chartreuse;
+    text-shadow: 5px 10px black;
+    letter-spacing: 4px;
+}
